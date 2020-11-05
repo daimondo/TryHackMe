@@ -5,6 +5,3 @@ These writeups vary in difficulty and topics. I wanted to track my progress from
 
 
 Writeups to follow....
-
-
-<script src="https://tryhackme.com/badge/77983"></script>
